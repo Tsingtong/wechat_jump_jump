@@ -1,4 +1,5 @@
 ## 前言
+fork自作者[moneyDboat](https://github.com/moneyDboat)，并进行了修改
 [教你用Python来玩微信跳一跳](https://zhuanlan.zhihu.com/p/32452473)一文，在电脑上利用adb驱动工具操作手机，详细的介绍以及如何安装adb驱动可以去看这篇文章。
 采用opencv的模板匹配+边缘检测，方法很简单但效果很好。  
 本文主要分享如何用Opencv对游戏截图进行检测，自动找到小人和跳跃目标点的位置，计算跳跃距离，从而让电脑帮你玩跳一跳游戏！
